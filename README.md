@@ -33,9 +33,17 @@
 
 <p align="center">
   <a href="https://tokscale.ai/u/jhny-kor">
-    <img src="https://tokscale.ai/api/embed/jhny-kor/svg?sort=cost&compact=1" alt="Tokscale Stats" />
+    <img width="72%" src="https://tokscale.ai/api/embed/jhny-kor/svg?sort=cost&compact=1" alt="Tokscale AI usage stats for jhny-kor" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/junhoyeo/tokscale"><img src="https://img.shields.io/badge/Powered_by-Tokscale-0073FF?style=for-the-badge&logo=github&logoColor=white" alt="Powered by Tokscale" /></a>
+  <img src="https://img.shields.io/badge/Codex_CLI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+<p align="center"><sub>Tokscale tracks token usage and estimated cost across local AI coding-agent sessions.</sub></p>
 
 <br/>
 
