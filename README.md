@@ -29,6 +29,16 @@
 
 <br/>
 
+## AI Usage
+
+<p align="center">
+  <a href="https://tokscale.ai/u/jhny-kor">
+    <img src="https://tokscale.ai/api/embed/jhny-kor/svg?sort=cost&compact=1" alt="Tokscale Stats" />
+  </a>
+</p>
+
+<br/>
+
 ## Highlights
 
 <table>
@@ -102,6 +112,8 @@ Finance apps      Tax and welfare baseline apps for Korea-focused personal finan
 <p align="center">
   <a href="https://github.com/jhny-kor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://jhny-kor.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" /></a>
+  <a href="https://www.linkedin.com/in/jihyunkim94/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hurrc04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
