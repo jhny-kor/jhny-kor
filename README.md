@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://tokscale.ai/u/jhny-kor">
-    <img width="72%" src="https://tokscale.ai/api/embed/jhny-kor/svg?sort=cost&compact=1" alt="Tokscale AI usage stats for jhny-kor" />
+    <img width="72%" src="https://tokscale.ai/api/embed/jhny-kor/svg?sort=tokens&compact=1" alt="Tokscale AI usage stats for jhny-kor" />
   </a>
 </p>
 
