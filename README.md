@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:2563EB&height=200&section=header&text=jhny&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20systems%20%7C%20Trading%20bots%20%7C%20Apple%20apps%20%7C%20Security%20tools&descAlignY=56&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:2563EB&height=200&section=header&text=jhny&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20tools%20%7C%20Personal%20knowledge%20%7C%20Trading%20bots%20%7C%20Apple%20apps&descAlignY=56&descSize=16"/>
 
 <p align="center">
   <a href="https://github.com/jhny-kor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=760&lines=Building+local-first+automation+tools;Shipping+trading+systems+with+logs+and+feedback+loops;Designing+Apple%2C+security%2C+finance%2C+and+family+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=800&lines=Building+local-first+security+and+knowledge+tools;Shipping+trading+systems+with+logs+and+feedback+loops;Designing+Apple%2C+finance%2C+document%2C+and+family+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,28 +56,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/jhny-kor/sec-chk"><b>sec-chk / KODA</b></a>&nbsp;<a href="https://github.com/jhny-kor/sec-chk/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/sec-chk?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Offline-first local security and quality scanner for source, configuration, dependencies, host posture, screen quality, and release evidence.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jhny-kor/OWNtology-Kit"><b>OWNtology-Kit</b></a>&nbsp;<a href="https://github.com/jhny-kor/OWNtology-Kit/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/OWNtology-Kit?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>macOS local-only personal ontology kit for KakaoTalk, SMS, mail, Apple Notes, Safari tabs, and optional GitHub stars.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/AutoCoinTrading"><b>AutoCoinTrading</b></a>&nbsp;<a href="https://github.com/jhny-kor/AutoCoinTrading/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/AutoCoinTrading?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
       <sub>OKX and Upbit intraday trading system with runtime overrides, risk filters, decision journals, Telegram reports, and replay/backtest evidence.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/sec-chk"><b>sec-chk</b></a>&nbsp;<a href="https://github.com/jhny-kor/sec-chk/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/sec-chk?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Read-only local security scanner for secrets, dependency risks, configuration issues, code patterns, SBOM/VEX, and release guardrails.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/RemoteControl"><b>RemoteControl</b></a>&nbsp;<a href="https://github.com/jhny-kor/RemoteControl/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/RemoteControl?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Telegram control plane for local projects: status checks, allowed commands, process control, and remote Codex jobs from one bot.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/porta-host"><b>porta / porta host</b></a>&nbsp;<a href="https://github.com/jhny-kor/porta-pages"><img src="https://img.shields.io/badge/support-pages-2563EB?style=flat&labelColor=0D1117&logo=github&logoColor=white" alt="support pages" /></a><br/>
-      <sub>Apple screen-sharing apps for iOS, iPadOS, and macOS with Bonjour discovery, pairing codes, ScreenCaptureKit, and relay hardening.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/AutoStockTrading"><b>AutoStockTrading</b></a>&nbsp;<a href="https://github.com/jhny-kor/AutoStockTrading/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/AutoStockTrading?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Korea and US stock automation around KIS Open API, market checks, IPO schedules, news, disclosure monitoring, and Telegram reports.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/TaxMeter"><b>TaxMeter</b></a>&nbsp;<a href="https://github.com/jhny-kor/TaxMeter/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/TaxMeter?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
@@ -86,32 +76,43 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>shoebox</b>&nbsp;<img src="https://img.shields.io/badge/private-TypeScript-3178C6?style=flat&labelColor=0D1117&logo=typescript&logoColor=white" alt="private TypeScript project" /><br/>
-      <sub>Family shoebox MVP for mobile browsers using Next.js, Supabase/Postgres, family-code sessions, server-side API writes, and photo editing.</sub>
+      <a href="https://github.com/jhny-kor/MuMA"><b>MuMA</b></a>&nbsp;<a href="https://github.com/jhny-kor/MuMA/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/MuMA?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Prompt-native AI music workstation prototype with browser workflow validation, native macOS shell, and C++20 audio-core planning.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>MuMA</b>&nbsp;<img src="https://img.shields.io/badge/local-Swift%20%2B%20C%2B%2B-F05138?style=flat&labelColor=0D1117&logo=swift&logoColor=white" alt="local Swift and C++ project" /><br/>
-      <sub>Prompt-native AI music workstation prototype with a browser workflow, native macOS shell, and C++20 audio-core planning.</sub>
+      <a href="https://github.com/jhny-kor/RemoteControl"><b>RemoteControl</b></a>&nbsp;<a href="https://github.com/jhny-kor/RemoteControl/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/RemoteControl?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Telegram control plane for local projects: status checks, allowed commands, process control, and remote Codex jobs from one bot.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jhny-kor/AutoStockTrading"><b>AutoStockTrading</b></a>&nbsp;<a href="https://github.com/jhny-kor/AutoStockTrading/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/AutoStockTrading?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Korea and US stock automation around KIS Open API, market checks, IPO schedules, news, disclosure monitoring, and Telegram reports.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jhny-kor/porta-host"><b>porta / porta host</b></a>&nbsp;<a href="https://github.com/jhny-kor/porta-pages"><img src="https://img.shields.io/badge/support-pages-2563EB?style=flat&labelColor=0D1117&logo=github&logoColor=white" alt="support pages" /></a><br/>
+      <sub>Apple screen-sharing apps for iOS, iPadOS, and macOS with Bonjour discovery, pairing codes, ScreenCaptureKit, and App Store support pages.</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Public repository links and star badges are live · local/private work is summarized without private links · profile refreshed on <code>2026-06-13</code></sub></p>
+<p align="center"><sub>Public repository links and star badges are live · private work is summarized without private links · profile refreshed on <code>2026-07-15</code></sub></p>
 
 <br/>
 
 ## Current Focus
 
 ```text
-Trading systems     AutoCoinTrading runtime tuning, replay evidence, fee/risk protection
-Family software     shoebox mobile browser MVP with server-side Supabase access
-Apple apps          porta host/client split, relay hardening, App Store support pages
-Security tools      sec-chk local scanner, prevention kit, SBOM/VEX, release evidence
-Automation          RemoteControl Telegram command plane for local projects and Codex jobs
-Document tooling    gHwpx HWPX template renderer for Korean document workflows
+Security platform   sec-chk / KODA scanner, platform packages, SBOM/VEX, screen-quality checks
+Personal knowledge  OWNtology-Kit local ontology vault pipeline for personal macOS data
 Finance apps        TaxMeter Korea tax/welfare baseline and ontology-backed planning
+Trading systems     AutoCoinTrading runtime tuning, replay evidence, fee/risk protection
 Creative tools      MuMA prompt-native music workstation and native audio-core prototype
-Navigation apps     Novalane private iOS map/location app experiments
+Automation          RemoteControl Telegram command plane for local projects and Codex jobs
+Apple apps          porta host/client split, App Store support pages, Novalane experiments
+Family software     shoebox and my-shoebox private family inventory apps
+Document tooling    gHwpx private HWPX template renderer for Korean document workflows
+Web/pages           porta-pages, jhny-kor.github.io, AI-News, fashion-trend
 ```
 
 <br/>
