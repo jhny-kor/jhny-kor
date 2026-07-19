@@ -56,7 +56,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/sec-chk"><b>sec-chk / KODA</b></a>&nbsp;<a href="https://github.com/jhny-kor/sec-chk/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/sec-chk?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <a href="https://github.com/jhny-kor/sec-chk"><b>KODA</b></a>&nbsp;<a href="https://github.com/jhny-kor/sec-chk/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/sec-chk?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
       <sub>Offline-first local security and quality scanner for source, configuration, dependencies, host posture, screen quality, and release evidence.</sub>
     </td>
     <td width="50%" valign="top">
@@ -103,7 +103,7 @@
 ## Current Focus
 
 ```text
-Security platform   sec-chk / KODA scanner, platform packages, SBOM/VEX, screen-quality checks
+Security platform   KODA scanner, platform packages, SBOM/VEX, screen-quality checks
 Personal knowledge  OWNtology-Kit local ontology vault pipeline for personal macOS data
 Finance apps        TaxMeter Korea tax/welfare baseline and ontology-backed planning
 Trading systems     AutoCoinTrading runtime tuning, replay evidence, fee/risk protection
