@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:2563EB&height=200&section=header&text=jhny&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20tools%20%7C%20Personal%20knowledge%20%7C%20Trading%20bots%20%7C%20Apple%20apps&descAlignY=56&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:2563EB&height=200&section=header&text=jhny&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=KODA%20security%20%7C%20Finance%20ontology%20%7C%20OCI%20automation%20%7C%20Trading%20systems%20%7C%20Apple%20apps&descAlignY=56&descSize=16"/>
 
 <p align="center">
   <a href="https://github.com/jhny-kor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=800&lines=Building+local-first+security+and+knowledge+tools;Shipping+trading+systems+with+logs+and+feedback+loops;Designing+Apple%2C+finance%2C+document%2C+and+family+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=800&lines=Building+KODA+security+tools+and+closed-network+MCPs;Shipping+finance+ontology+explorers+and+OCI+automation;Designing+trading%2C+Apple%2C+and+family+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,37 +57,47 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/sec-chk"><b>KODA</b></a>&nbsp;<a href="https://github.com/jhny-kor/sec-chk/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/sec-chk?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Offline-first local security and quality scanner for source, configuration, dependencies, host posture, screen quality, and release evidence.</sub>
+      <sub>Offline-first security and quality scanner for macOS, Windows, Linux, CI, SBOM, host posture, and screen quality.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jhny-kor/KODA-MCP"><b>KODA-MCP</b></a>&nbsp;<a href="https://github.com/jhny-kor/KODA-MCP/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/KODA-MCP?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Closed-network, non-blocking security-advisory MCP for Continue or Open WebUI, scanning only client-provided changed text files.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jhny-kor/OpenFin"><b>OpenFin</b></a>&nbsp;<a href="https://github.com/jhny-kor/OpenFin/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/OpenFin?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Read-only finance ontology explorer and Cloudflare Remote MCP with provenance, freshness, and fail-closed recommendation gates.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/OWNtology-Kit"><b>OWNtology-Kit</b></a>&nbsp;<a href="https://github.com/jhny-kor/OWNtology-Kit/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/OWNtology-Kit?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>macOS local-only personal ontology kit for KakaoTalk, SMS, mail, Apple Notes, Safari tabs, and optional GitHub stars.</sub>
+      <sub>Local-only macOS personal ontology vault kit with default-off collectors and zero external pip dependencies.</sub>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jhny-kor/oci-server-kit"><b>oci-server-kit</b></a>&nbsp;<a href="https://github.com/jhny-kor/oci-server-kit/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/oci-server-kit?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Terraform-based OCI server kit with a public portal, protected monitoring, and cost-aware setup guidance.</sub>
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/AutoCoinTrading"><b>AutoCoinTrading</b></a>&nbsp;<a href="https://github.com/jhny-kor/AutoCoinTrading/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/AutoCoinTrading?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>OKX and Upbit intraday trading system with runtime overrides, risk filters, decision journals, Telegram reports, and replay/backtest evidence.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/TaxMeter"><b>TaxMeter</b></a>&nbsp;<a href="https://github.com/jhny-kor/TaxMeter/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/TaxMeter?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Korea-focused tax and welfare baseline navigator with rule data, threshold-distance UX, ontology notes, and iOS release planning.</sub>
+      <sub>OKX and Upbit spot intraday bot with live-aligned replay, risk filters, decision journals, and Telegram evidence.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/MuMA"><b>MuMA</b></a>&nbsp;<a href="https://github.com/jhny-kor/MuMA/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/MuMA?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Prompt-native AI music workstation prototype with browser workflow validation, native macOS shell, and C++20 audio-core planning.</sub>
+      <a href="https://github.com/jhny-kor/TaxMeter"><b>TaxMeter</b></a>&nbsp;<a href="https://github.com/jhny-kor/TaxMeter/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/TaxMeter?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
+      <sub>Korea-focused tax and welfare baseline core with timestamped comparison provenance and ontology-backed planning.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/RemoteControl"><b>RemoteControl</b></a>&nbsp;<a href="https://github.com/jhny-kor/RemoteControl/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/RemoteControl?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Telegram control plane for local projects: status checks, allowed commands, process control, and remote Codex jobs from one bot.</sub>
+      <sub>Telegram and Codex control plane for local projects with allowlisted commands, process control, and job evidence.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/AutoStockTrading"><b>AutoStockTrading</b></a>&nbsp;<a href="https://github.com/jhny-kor/AutoStockTrading/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/AutoStockTrading?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Korea and US stock automation around KIS Open API, market checks, IPO schedules, news, disclosure monitoring, and Telegram reports.</sub>
+      <sub>Korea and US stock automation around KIS Open API, market checks, IPO schedules, news, disclosure monitoring, and reports.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/porta-host"><b>porta / porta host</b></a>&nbsp;<a href="https://github.com/jhny-kor/porta-pages"><img src="https://img.shields.io/badge/support-pages-2563EB?style=flat&labelColor=0D1117&logo=github&logoColor=white" alt="support pages" /></a><br/>
@@ -96,23 +106,26 @@
   </tr>
 </table>
 
-<p align="center"><sub>Public repository links and star badges are live · private work is summarized without private links · profile refreshed on <code>2026-07-15</code></sub></p>
+<p align="center"><sub>Public repository links and star badges are live · private work is summarized without private links · profile refreshed on <code>2026-08-21</code></sub></p>
 
 <br/>
 
 ## Current Focus
 
 ```text
-Security platform   KODA scanner, platform packages, SBOM/VEX, screen-quality checks
-Personal knowledge  OWNtology-Kit local ontology vault pipeline for personal macOS data
-Finance apps        TaxMeter Korea tax/welfare baseline and ontology-backed planning
-Trading systems     AutoCoinTrading runtime tuning, replay evidence, fee/risk protection
-Creative tools      MuMA prompt-native music workstation and native audio-core prototype
-Automation          RemoteControl Telegram command plane for local projects and Codex jobs
-Apple apps          porta host/client split, App Store support pages, Novalane experiments
-Family software     shoebox and my-shoebox private family inventory apps
-Document tooling    gHwpx private HWPX template renderer for Korean document workflows
-Web/pages           porta-pages, jhny-kor.github.io, AI-News, fashion-trend
+Security platform   KODA cross-platform scanner, Mac App Store, and air-gapped suite
+Security MCP        KODA-MCP closed-network advisory MCP for Continue and Open WebUI
+Finance platform    OpenFin read-only ontology explorer, provenance, and Remote MCP
+Personal knowledge  OWNtology-Kit local-only vault with default-off collectors
+Cloud operations    OCI Server Kit Terraform portal and protected monitoring
+Finance apps        TaxMeter Korean tax/welfare baseline and comparison provenance
+Trading systems     AutoCoinTrading OKX/Upbit replay and risk controls; AutoStockTrading KIS workflows
+Automation          RemoteControl Telegram/Codex manager for local projects
+Apple apps          porta host/client split, support pages, and private Novalane experiments
+Private apps        MuMA, porta, shoebox, and my-shoebox
+Private tooling     arbitrage, OpenTrader, KODA-SBOM-Tracker, gHwpx
+Private experiments ai-card-news, markany-ui-automation, doc-security-evaluation
+Web/pages           porta-pages, jhny-kor.github.io, and AI-News
 ```
 
 <br/>
