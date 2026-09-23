@@ -66,10 +66,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jhny-kor/OpenFin"><b>OpenFin</b></a>&nbsp;<a href="https://github.com/jhny-kor/OpenFin/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/OpenFin?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
-      <sub>Read-only finance ontology explorer and Cloudflare Remote MCP with provenance, freshness, and fail-closed recommendation gates.</sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/jhny-kor/OWNtology-Kit"><b>OWNtology-Kit</b></a>&nbsp;<a href="https://github.com/jhny-kor/OWNtology-Kit/stargazers"><img src="https://img.shields.io/github/stars/jhny-kor/OWNtology-Kit?style=flat&color=22C55E&labelColor=0D1117&logo=github&logoColor=white" alt="stars" /></a><br/>
       <sub>Local-only macOS personal ontology vault kit with default-off collectors and zero external pip dependencies.</sub>
     </td>
@@ -115,7 +111,6 @@
 ```text
 Security platform   KODA cross-platform scanner, Mac App Store, and air-gapped suite
 Security MCP        KODA-MCP closed-network advisory MCP for Continue and Open WebUI
-Finance platform    OpenFin read-only ontology explorer, provenance, and Remote MCP
 Personal knowledge  OWNtology-Kit local-only vault with default-off collectors
 Cloud operations    OCI Server Kit Terraform portal and protected monitoring
 Finance apps        TaxMeter Korean tax/welfare baseline and comparison provenance
