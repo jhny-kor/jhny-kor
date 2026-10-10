@@ -1,0 +1,91 @@
+name: Update 3D contribution calendar
+
+"on":
+  schedule:
+    - cron: "17 18 * * *" # 03:17 Asia/Seoul
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/profile-3d.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-3d-contributions
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - name: Generate light and dark calendars
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Validate and select SVG assets
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import shutil
+          import xml.etree.ElementTree as ET
+
+          assets = Path('assets')
+          assets.mkdir(exist_ok=True)
+          for source, destination in (
+              ('profile-green-animate.svg', 'profile-3d-light.svg'),
+              ('profile-night-green.svg', 'profile-3d-dark.svg'),
+          ):
+              path = Path('profile-3d-contrib') / source
+              assert 1000 < path.stat().st_size < 2_000_000, path
+              root = ET.parse(path).getroot()
+              assert root.tag == '{http://www.w3.org/2000/svg}svg', path
+              assert len(list(root.iter())) > 100, path
+              for element in root.iter():
+                  tag = element.tag.rsplit('}', 1)[-1]
+                  assert tag not in ('script', 'foreignObject'), tag
+                  assert not any(key.lower().startswith('on') for key in element.attrib), tag
+              shutil.copyfile(path, assets / destination)
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: profile-3d-svg
+          path: |
+            assets/profile-3d-light.svg
+            assets/profile-3d-dark.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: main
+      - uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5
+        with:
+          name: profile-3d-svg
+          path: assets
+      - name: Commit updated calendars
+        run: |
+          test -s assets/profile-3d-light.svg
+          test -s assets/profile-3d-dark.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/profile-3d-light.svg assets/profile-3d-dark.svg
+          if git diff --cached --quiet; then
+            echo 'Contribution calendars are unchanged.'
+            exit 0
+          fi
+          git commit -m 'Update 3D contribution calendars'
+          git pull --rebase origin main
+          git push origin HEAD:main
