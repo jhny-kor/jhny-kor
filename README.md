@@ -136,8 +136,12 @@ Web/pages           porta-pages, jhny-kor.github.io, and AI-News
 ## Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhny-kor&theme=github-compact&hide_border=true&area=true&color=22C55E&line=2563EB&point=22C55E" alt="GitHub activity graph" />
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-3d-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/profile-3d-light.svg" />
+      <img width="100%" src="./assets/profile-3d-light.svg" alt="3D GitHub contribution calendar for jhny-kor" />
+    </picture>
   </a>
 </p>
 
