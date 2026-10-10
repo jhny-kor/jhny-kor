@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jhny-kor"><img src="https://img.shields.io/github/followers/jhny-kor?logo=github&style=for-the-badge&color=22C55E&labelColor=0D1117" alt="GitHub followers" /></a>
-  <a href="https://github.com/jhny-kor?tab=repositories"><img src="https://img.shields.io/github/stars/jhny-kor?style=for-the-badge&logo=github&color=2563EB&labelColor=0D1117" alt="GitHub user stars" /></a>
-  <a href="https://github.com/jhny-kor"><img src="https://komarev.com/ghpvc/?username=jhny-kor&style=for-the-badge&color=22C55E" alt="Profile views" /></a>
+  <a href="https://github.com/jhny-kor"><img src="https://img.shields.io/github/followers/jhny-kor?logo=github&style=flat&color=22C55E&labelColor=0D1117" alt="GitHub followers" /></a>
+  <a href="https://github.com/jhny-kor?tab=repositories"><img src="https://img.shields.io/github/stars/jhny-kor?style=flat&logo=github&color=2563EB&labelColor=0D1117" alt="GitHub user stars" /></a>
+  <a href="https://github.com/jhny-kor"><img src="https://komarev.com/ghpvc/?username=jhny-kor&style=flat&color=22C55E" alt="Profile views" /></a>
 </p>
 
 <br/>
@@ -17,18 +17,18 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Automation-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
-  <img src="https://img.shields.io/badge/Trading_Systems-0891B2?style=for-the-badge&logo=tradingview&logoColor=white" alt="Trading Systems" />
-  <img src="https://img.shields.io/badge/Security_Tools-111827?style=for-the-badge&logo=owasp&logoColor=white" alt="Security Tools" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111111" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Automation-22C55E?style=flat&logo=githubactions&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Trading_Systems-0891B2?style=flat&logo=tradingview&logoColor=white" alt="Trading Systems" />
+  <img src="https://img.shields.io/badge/Security_Tools-111827?style=flat&logo=owasp&logoColor=white" alt="Security Tools" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
 <br/>
@@ -42,9 +42,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/junhoyeo/tokscale"><img src="https://img.shields.io/badge/Powered_by-Tokscale-0073FF?style=for-the-badge&logo=github&logoColor=white" alt="Powered by Tokscale" /></a>
-  <img src="https://img.shields.io/badge/Codex_CLI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <a href="https://github.com/junhoyeo/tokscale"><img src="https://img.shields.io/badge/Powered_by-Tokscale-0073FF?style=flat&logo=github&logoColor=white" alt="Powered by Tokscale" /></a>
+  <img src="https://img.shields.io/badge/Codex_CLI-111111?style=flat&logo=openai&logoColor=white" alt="Codex CLI" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
 <p align="center"><sub>Tokscale tracks token usage and estimated cost across local AI coding-agent sessions.</sub></p>
@@ -146,10 +146,10 @@ Web/pages           porta-pages, jhny-kor.github.io, and AI-News
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/jhny-kor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://jhny-kor.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" /></a>
-  <a href="https://www.linkedin.com/in/jihyunkim94/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hurrc04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jhny-kor"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://jhny-kor.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages" /></a>
+  <a href="https://www.linkedin.com/in/jihyunkim94/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hurrc04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
